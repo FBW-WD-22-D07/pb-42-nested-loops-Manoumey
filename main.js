@@ -132,8 +132,8 @@ let num=1;
     }
 
     
-    console.log(numArr.join(""));
-    console.log(numArray.join(""));
+    console.log(numArr.join(" "));
+    console.log(numArray.join(" "));
 }
 
 
